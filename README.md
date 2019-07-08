@@ -41,7 +41,3 @@ Additionally, city officials would like to see the following visualizations:
 A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top.
 
 If you're working with a merged dataset: a dynamic map that shows how each station's popularity changes over time (by month and year) -- with commentary pointing to any interesting events that may be behind these phenomena.
-
-Lastly, as a chronic over-achiever:
-
-Find at least two unexpected phenomena in the data and provide a visualization and analysis to document their presence.
