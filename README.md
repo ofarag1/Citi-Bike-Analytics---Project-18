@@ -18,6 +18,6 @@ Data Used: First 5 Month of 2019
  5-201905-citibike-tripdata.csv	Jun 11th 2019, 03:37:54 pm 82.18 MB
 
 ### % Total Ridership
-![Citi-Bikes](Images/1-Total_#_of_Trips.jpeg)
+![Citi-Bikes](Images/1-Total_#_of_Trips.jpg)
 
 
