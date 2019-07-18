@@ -6,7 +6,8 @@
 
 Data Used: First 5 Month of 2019
 
-   Name	                        Date Modified	            Size	
+   Name	                        Date Modified	            Size
+   
  1-201901-citibike-tripdata.csv	Feb 11th 2019, 09:43:30 am	41.47 MB	
  
  2-201902-citibike-tripdata.csv	Mar 4th 2019, 11:21:38 am	40.47 MB	
