@@ -51,8 +51,3 @@ Data Used: First 5 Month of 2019
 ![% Total Ridership](https://github.com/ofarag1/Citi-Bike-Analytics-Project-18/blob/master/Images/16-Static_Map_(Start_Location).jpeg)
 ## Static Map (End Location)
 ![% Total Ridership](https://github.com/ofarag1/Citi-Bike-Analytics-Project-18/blob/master/Images/17-Static_Map_(End_Location).jpeg)
-
-
-
-
-
